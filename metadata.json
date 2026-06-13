@@ -1,0 +1,6 @@
+{
+  "name": "Gitai Coaching",
+  "description": "Educational and mock test app for Gitai Tuition Class & Coaching students (Class 5th-10th, State Board and CBSE)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
